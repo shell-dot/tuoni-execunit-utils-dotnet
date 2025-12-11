@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ExecUnitUtils", "ExecUnitUtils.shproj", "{FA847DFD-ED16-4AA7-8AEE-F5CD4ACB53EE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0ACECC-FF25-423D-9035-CBECA4EF5FBF}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ExecUnitUtils.projitems*{fa847dfd-ed16-4aa7-8aee-f5cd4acb53ee}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
